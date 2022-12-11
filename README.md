@@ -27,7 +27,7 @@ The improvements of the API is also being valued, so we will try our best to wor
 | Version | Support Status                  | Download                                                     |
 | ------- | ------------------------------- | ------------------------------------------------------------ |
 | 1.18.2  | ❌                               | Not exists.                                                  |
-| 1.19.2  | ✔️ LTS version, end at 2023-2-1. | [main](https://github.com/KeYiMC/KeYi/releases/tag/main-1.19.2), [develop](https://github.com/KeYiMC/KeYi/releases/tag/develop-1.19.2). |
+| 1.19.2  | ✔️ LTS version, will be end at 2023-2-1. | [main](https://github.com/KeYiMC/KeYi/releases/tag/main-1.19.2), [develop](https://github.com/KeYiMC/KeYi/releases/tag/develop-1.19.2). |
 | 1.19.3  | ✔️                               | [main](https://github.com/KeYiMC/KeYi/releases/tag/main-1.19.3), [develop](https://github.com/KeYiMC/KeYi/releases/tag/develop-1.19.3). |
 
 # API
